@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bilal Ahmad 👋
 
-<!--
-**bilalgt4/bilalgt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer & AI Automation Specialist**
 
-Here are some ideas to get you started:
+I build and maintain websites and automate repetitive work with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- 🌐 **WordPress** – custom themes, plugins, Elementor builds and fixes
+- 🛍️ **Shopify** – store setup, customisation and troubleshooting
+- 🧱 **Squarespace** – site builds and design tweaks
+- 💻 **Custom websites** – hand-coded HTML, CSS and JavaScript
+- 🎨 **Figma to website** – pixel-perfect conversion of Figma designs into responsive websites
+- 🧩 **Figma to Elementor** – Figma designs built as clean, editable Elementor pages in WordPress
+- 🤖 **AI automation** – workflows that save time and cut manual tasks
+
+## Tech
+HTML · CSS · JavaScript · WordPress · Elementor · Shopify · Squarespace · Figma · AI automation tools
+
+## Let's work together
+Have a website project or a process you want to automate? Get in touch through my GitHub profile.
